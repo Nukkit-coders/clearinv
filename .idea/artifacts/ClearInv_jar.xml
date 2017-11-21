@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="ClearInv:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClearInv_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ClearInv.jar">
+        <element id="module-output" name="ClearInv" />
+      </element>
+    </root>
+  </artifact>
+</component>

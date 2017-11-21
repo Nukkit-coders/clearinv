@@ -1,0 +1,9 @@
+name: ClearInv
+version: "1.0"
+author: socialclubz.com
+api: ["1.0.0"]
+main: me.socialclubz.com.clearinv
+commands:
+  ci:
+    description: Clears your inventory
+    permission: social.ci
